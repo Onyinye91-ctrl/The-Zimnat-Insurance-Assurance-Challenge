@@ -9,3 +9,5 @@ I converted the categorical variables to numerical variables using a 'for statem
 I used different Algorithms but Decision Tree Algorithm performed so well while twilking the hyperparameters
 
 Our Target variable is the 'Lapse' column
+
+The Data set can be found https://zindi.africa/hackathons/the-zimnat-insurance-assurance-challenge/data
